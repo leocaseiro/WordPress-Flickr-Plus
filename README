@@ -1,0 +1,9 @@
+==DESCRIPTION==
+A simple WordPress's Plugin. Create a Class in PHP for get photos at Flickr account
+Required: API KEY, SECRET KEY, USERNAME, USER ID 
+
+==Usage==
+
+`
+<?php echo flickr_plus_list_all_photos($limit = false, $sep_before = '<li>', $sep_after = '</li>', $link = false); ?>
+`
