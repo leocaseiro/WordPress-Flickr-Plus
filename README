@@ -1,3 +1,9 @@
+==LICENSE==
+Dual licensed under the MIT and GPL licenses:
+http://www.opensource.org/licenses/mit-license.php
+http://www.gnu.org/licenses/gpl.html
+
+
 ==DESCRIPTION==
 A simple WordPress's Plugin. Create a Class in PHP for get photos at Flickr account
 Required: API KEY, SECRET KEY, USERNAME, USER ID 
